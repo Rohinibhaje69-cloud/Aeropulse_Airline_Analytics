@@ -247,5 +247,6 @@ Aspiring Data Analyst
 
 ------------------------------------------------------------------------
 
-**AeroPulse Airline Analytics --- Turning Flight Data into Operational
-Understanding.**
+**AeroPulse Airline Analytics --- Turning Flight Data into Operational.**
+
+
