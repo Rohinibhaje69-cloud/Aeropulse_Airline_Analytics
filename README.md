@@ -1,6 +1,6 @@
 # AeroPulse Airline Analytics
 
-> **Transforming flight data into meaningful insights for smarter airline operations.**
+**Transforming flight data into meaningful insights for smarter airline operations.**
 
 ## Project Overview
 
