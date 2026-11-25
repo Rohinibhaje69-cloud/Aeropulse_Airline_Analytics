@@ -229,17 +229,17 @@ Findings
 
 ## Project Information
 
-  Category            Details
-  ------------------- ------------------------------------
-  Project             AeroPulse Airline Analytics
-  Duration            September -- October 2026
-  Domain              Airline / Aviation Analytics
-  Dataset             Flight-level operational data
-  Project Type        Exploratory Data Analysis
-  Language            Python
-  Libraries           Pandas, NumPy, Matplotlib, Seaborn
-  Development Tools   Jupyter Notebook, VS Code
-  Version Control     Git & GitHub
+| Category | Details |
+|---|---|
+| Project | AeroPulse Airline Analytics |
+| Duration | September – October 2026 |
+| Domain | Airline / Aviation Analytics |
+| Dataset | Flight-level operational data |
+| Project Type | Exploratory Data Analysis |
+| Language | Python |
+| Libraries | Pandas, NumPy, Matplotlib, Seaborn |
+| Development Tools | Jupyter Notebook, VS Code |
+| Version Control | Git & GitHub |
 
 ------------------------------------------------------------------------
 
