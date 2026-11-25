@@ -1,7 +1,6 @@
-# Aeropulse_Airline_Analytics
+# AeroPulse Airline Analytics
 
- **Transforming flight data into meaningful insights for smarter
-  airline operations.**
+> **Transforming flight data into meaningful insights for smarter airline operations.**
 
 ## Project Overview
 
@@ -14,10 +13,17 @@ The analysis follows a structured workflow covering data acquisition,
 profiling, data quality assessment, data cleaning, feature engineering,
 exploratory analysis, visualization, and business reporting.
 
-**Duration:** September -- October 2026\
-**Domain:** Airline / Aviation Analytics\
-**Project Type:** Exploratory Data Analysis (EDA)\
-**Programming Language:** Python
+| Category | Details |
+|---|---|
+| Project | AeroPulse Airline Analytics |
+| Duration | September – October 2026 |
+| Domain | Airline / Aviation Analytics |
+| Dataset | Flight-level operational data |
+| Project Type | Exploratory Data Analysis |
+| Language | Python |
+| Libraries | Pandas, NumPy, Matplotlib, Seaborn |
+| Development Tools | Jupyter Notebook, VS Code |
+| Version Control | Git & GitHub |
 
 ------------------------------------------------------------------------
 
@@ -54,16 +60,16 @@ This project explores the following business questions:
 
 ## Technology Stack
 
-  Tool / Library     Role in the Project
-  ------------------ ---------------------------------------------------------
-  Python             Core programming language for analysis
-  Pandas             Data inspection, cleaning, transformation, and analysis
-  NumPy              Numerical operations and data handling
-  Matplotlib         Data visualization
-  Seaborn            Statistical and comparative visualizations
-  Jupyter Notebook   Organizing and documenting the analysis
-  VS Code            Development environment
-  Git & GitHub       Version control and project repository
+| Tool / Library | Role in the Project |
+|---|---|
+| Python | Core programming language for analysis |
+| Pandas | Data inspection, cleaning, transformation, and analysis |
+| NumPy | Numerical operations and data handling |
+| Matplotlib | Data visualization |
+| Seaborn | Statistical and comparative visualizations |
+| Jupyter Notebook | Organizing and documenting the analysis |
+| VS Code | Development environment |
+| Git & GitHub | Version control and project repository |
 
 ------------------------------------------------------------------------
 
